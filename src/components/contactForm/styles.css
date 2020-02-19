@@ -1,0 +1,13 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center;
+}
+
+.btnRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center;
+}
